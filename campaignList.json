@@ -1,0 +1,107 @@
+[
+    {
+        "Id": 1,
+        "Title": "Re-engagement Campaign",
+        "Description": "Focus on stratgey and not on production.",
+        "Price": 99.00,
+        "Icon": "<img src=\"../image/re-engagement-thumbnail.png\" alt=\"image\">",
+        "SmallIcon": "<img src=\"../image/re-engagement-thumbnail.png\" alt=\"image\">",
+        "Details": {
+            "ImagePath": "<img src=\"../image/Re-engagement-Modal.jpg\" style=\"height: auto;width : auto;\" alt=\"Unable To Load Image\" />",
+            "Description": "Sales cycles are long and nonlinear. Prospects take months of nurturing and often get lost in the shuffle. It's important to determine if cold leads are no longer interested or perhaps they’ve been busy. Re-engaging with these prospects will give your sales team the information they need to continue toward closing a deal or move onto the next one.",
+            "AssetsIncluded": "1 HubSpot Workflow, 3 HubSpot Marketing Emails, 1 HubSpot List, 1 HubSpot Form, Product Documentation",
+            "SoftwareRequirements": "HubSpot Marketing Hub Pro +",
+            "DeliveryTime": "Instant"
+        }
+    },
+    {
+        "Id": 3,
+        "Title": "Lead Routing Campaign",
+        "Description": "Save time and money.",
+        "Price": 99.00,
+        "Icon": "<img src=\"../image/lead-Routing-thumbnail.png\" alt=\"image\">",
+        "SmallIcon": "<img src=\"../image/lead-Routing-thumbnail.png\" alt=\"image\">",
+        "Details": {
+            "ImagePath": "<img src=\"../image/Lead-Routing-Modal.jpg\" style=\"height: auto;width : auto;\" alt=\"Unable To Load Image\" />",
+            "Description": "Sales teams with distinct territories need automation to make their day-to-day easier. No one should be manually assigning leads in this day and age. Of course, every organization will have varying regions. Some will target entire continents. Others might focus more locally, such as on cities. While we don't have the means to customize a workflow for everyone, we have a general one with specific instructions on how to adapt it for your team.",
+            "AssetsIncluded": "1 HubSpot Workflow, 3 HubSpot Marketing Emails, 1 HubSpot List",
+            "SoftwareRequirements": "HubSpot Marketing Hub Pro +",
+            "DeliveryTime": "Instant"
+        }
+    },
+    {
+        "Id": 4,
+        "Title": "New Customer Campaign",
+        "Description": "Your team will thank you on efficiency.",
+        "Price": 99.00,
+        "Icon": "<img src=\"../image/New-Customer-thumbnail.png\" alt=\"image\">",
+        "SmallIcon": "<img src=\"../image/New-Customer-thumbnail.png\" alt=\"image\">",
+        "Details": {
+            "ImagePath": "<img src=\"../image/New-Customer-Modal.jpg\" style=\"height: auto;width : auto;\" alt=\"Unable To Load Image\" />",
+            "Description": "There’s arguably nothing better than getting a new customer. It's an exciting time for brands involved. After a deal is closed, the real work begins. It's important for the seller to set the expectation for the new customer. What’s next? How is onboarding handled? What’s the project timeline? All of these crucial questions can be asked and answered in this automated campaign.",
+            "AssetsIncluded": "1 HubSpot Workflow, 3 HubSpot Emails, 1 HubSpot List, Product Documentation",
+            "SoftwareRequirements": "HubSpot Marketing Hub Pro +",
+            "DeliveryTime": "Instant"
+        }
+    },
+    {
+        "Id": 5,
+        "Title": "B2B Evergreen Nature Campaign",
+        "Description": "B2B Evergreen Nature Campaign",
+        "Price": 299.00,
+        "Icon": "<img src=\"../image/b2b-evergreen-thumbnail.png\" alt=\"image\">",
+        "SmallIcon": "<img src=\"../image/b2b-evergreen-thumbnail.png\" alt=\"image\">",
+        "Details": {
+            "ImagePath": "<img src=\"../image/B2B-Modal.jpg\" style=\"height: auto;width : auto;\" alt=\"Unable To Load Image\" />",
+            "Description": "Get this all-in-one B2B Evergreen Lead Nurture Campaign for HubSpot package to support all your lead generation, automation workflow, and email nurturing goals. Speed up your sales cycle and nurture new leads with this evergreen marketing setup until they’re ready to make a purchasing decision.",
+            "AssetsIncluded": "3 Workflows, 3 Email Templates, 3 Forms, 9 Automated Emails, 3 Landing Page Templates, Product Documentation",
+            "SoftwareRequirements": "HubSpot Marketing Hub Pro +",
+            "DeliveryTime": "Instant"
+        }
+    },
+    {
+        "Id": 6,
+        "Title": "Webinar campaign",
+        "Description": "Webinar campaign",
+        "Price": 99.00,
+        "Icon": "<img src=\"../image/webinar-thumbnail.png\" alt=\"image\">",
+        "SmallIcon": "<img src=\"../image/webinar-thumbnail.png\" alt=\"image\">",
+        "Details": {
+            "ImagePath": "<img src=\"../image/Webinar-modal.jpg\" style=\"height: auto;width : auto;\" alt=\"Unable To Load Image\" />",
+            "Description": "With this package you’ll get a fully built webinar marketing campaign, including workflows, email templates, landing page templates, contact lists, pre-built forms, and content guidelines to follow along the way.",
+            "AssetsIncluded": "5 HubSpot Workflows, 5 HubSpot Email Templates, 1 Registration Page Template, 1 On-Demand Page Template, 1 Form, 1 List, Product Documentation",
+            "SoftwareRequirements": "HubSpot Marketing Hub Pro +",
+            "DeliveryTime": "Instant"
+        }
+    },
+    {
+        "Id": 7,
+        "Title": "Customer Feedback package",
+        "Description": "Customer Feedback package",
+        "Price": 99.00,
+        "Icon": "<img src=\"../image/customer-feedback-thumbnail.png\" alt=\"image\">",
+        "SmallIcon": "<img src=\"../image/customer-feedback-thumbnail.png\" alt=\"image\">",
+        "Details": {
+            "ImagePath": "<img src=\"../image/Customer-Feedback-Modal.jpg\" style=\"height: auto;width : auto;\" alt=\"Unable To Load Image\" />",
+            "Description": "Don’t know how to ask your customers for feedback? Problem solved! This customer feedback package will seamlessly automate asking for and gathering valuable insights and testimonials from your customers. Collect and leverage this data to measure the overall perception of your brand and/or services and to improve the overall customer experience.",
+            "AssetsIncluded": "1 HubSpot Workflow, 1 Custom Feedback Email Module, 2 Email Templates, 3 Landing Pages, 3 Forms, 2 Custom Contact Properties, Product Documentation",
+            "SoftwareRequirements": "HubSpot Marketing Hub Pro +",
+            "DeliveryTime": "Instant"
+        }
+    },
+    {
+        "Id": 8,
+        "Title": "Welcome Series package",
+        "Description": "Welcome Series package",
+        "Price": 99.00,
+        "Icon": "<img src=\"../image/welcome-series-thumbnail.png\" alt=\"image\">",
+        "SmallIcon": "<img src=\"../image/welcome-series-thumbnail.png\" alt=\"image\">",
+        "Details": {
+            "ImagePath": "<img src=\"../image/Welcome-Series-Modal.jpg\" style=\"height: auto;width : auto;\" alt=\"Unable To Load Image\" />",
+            "Description": "We've all come to expect a series of relevant emails in our inbox once we sign up for something. Therefore, we need to treat our subscribers in the same way! This package includes a form to include on your domain, the list to stash your subscribers, the workflow to pace out automated emails, and 5 email templates to nurture prospects.",
+            "AssetsIncluded": "1 HubSpot Workflow, 5 HubSpot Email Templates, 1 Form, 1 List, Product Documentation",
+            "SoftwareRequirements": "HubSpot Marketing Hub Pro +",
+            "DeliveryTime": "Instant"
+        }
+    }
+]
