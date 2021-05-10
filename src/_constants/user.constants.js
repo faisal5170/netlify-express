@@ -1,5 +1,0 @@
-export const userConstants = {
-    CART_ITEM_REQUEST: 'CART_ITEM_REQUEST',
-    CART_ITEM_SUCCESS: 'CART_ITEM_SUCCESS',
-    CART_ITEM_ERROR: 'CART_ITEM_ERROR',
-}
